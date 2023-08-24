@@ -1,0 +1,16 @@
+		KARBI NUMBER DETECTION MODEL USING CNN
+		OWNER : BISHAL HAZARIKA
+
+
+
+1. The train folder has total 2440 images ( 244 for each class )
+2. The test folder has 610 images ( 61 for each class )
+3. Go to the CNN_Model.ipynb file --- > This is the training model. The model is
+  trained by CNN using Tensorflow
+4. Saving the trained model as KarbiClass.h5
+5. Using the .h5 file to predict images in GUI_detection.ipynb
+6. The Drawing screen or GUI is made using 'tkinter' (a GUI library for python)
+7. Draw any number and close the screen to see the output results
+
+
+NOTE: To re-train the model upload all the files to google colaboratory and den run each cell of the CNN_model.ipynb

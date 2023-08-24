@@ -1,0 +1,1 @@
+The Keras Model (.h5) is converted to Tensorflow Lite model (.tflite) to be used in the flutter app
